@@ -1,0 +1,23 @@
+# use glob syntax
+syntax: glob
+
+*.pdf
+*.sdb
+*.cce
+*.cod
+*.cof
+*.dep
+*.hex
+*.lde
+*.lst
+*.map
+*.mcs
+*.mcp
+*.mcw
+*.mptags
+*.obj
+*.sym
+*.tagsrc
+*.db
+*.html
+*.htm

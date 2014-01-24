@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>DateDemo/Flash</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>354</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+    <TerminalIO/><Debug-Log><ColumnWidth0>19</ColumnWidth0><ColumnWidth1>1623</ColumnWidth1></Debug-Log><Find-in-Files><ColumnWidth0>580</ColumnWidth0><ColumnWidth1>82</ColumnWidth1><ColumnWidth2>994</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-16126-6998</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>DateDemo</ExpandedNode><ExpandedNode>DateDemo/APP</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-15080-7017</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-12146-2503</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-23717-32131</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\date.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>361</SelStart><SelEnd>428</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\BSP\bsp.c</Filename><XPos>0</XPos><YPos>166</YPos><SelStart>7673</SelStart><SelEnd>7673</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\BSP\bsp_ser.c</Filename><XPos>0</XPos><YPos>193</YPos><SelStart>8054</SelStart><SelEnd>8054</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\app_vect.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1089</SelStart><SelEnd>1089</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\includes.h</Filename><XPos>0</XPos><YPos>52</YPos><SelStart>2668</SelStart><SelEnd>2672</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Micrium\Software\uC-CPU\ARM-Cortex-M3\IAR\cpu.h</Filename><XPos>0</XPos><YPos>104</YPos><SelStart>5019</SelStart><SelEnd>6290</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\datedemo.c</Filename><XPos>0</XPos><YPos>9</YPos><SelStart>496</SelStart><SelEnd>496</SelEnd></Tab><ActiveTab>6</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\date.c</Filename><XPos>0</XPos><YPos>51</YPos><SelStart>2086</SelStart><SelEnd>2091</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\BSP\ST\STM32\INC\stm32f10x_type.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>104</SelStart><SelEnd>120</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01df0458><key>iaridepm.enu1</key></Toolbar-01df0458></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>667</Bottom><Right>428</Right><x>-2</x><y>-2</y><xscreen>263</xscreen><yscreen>269</yscreen><sizeHorzCX>156548</sizeHorzCX><sizeHorzCY>275051</sizeHorzCY><sizeVertCX>255952</sizeVertCX><sizeVertCY>684049</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>267</Bottom><Right>1682</Right><x>-2</x><y>-2</y><xscreen>1684</xscreen><yscreen>269</yscreen><sizeHorzCX>1002381</sizeHorzCX><sizeHorzCY>275051</sizeHorzCY><sizeVertCX>156548</sizeVertCX><sizeVertCY>275051</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
