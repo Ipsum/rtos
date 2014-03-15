@@ -1,0 +1,222 @@
+I/O Buffer 4 bytes
+------------------
+Packet File Name [pkts.dat]  or '.' to quit:
+
+
+Delay Factor [DF=4] 0 = Manual Mode or '.' to quit: 100
+
+
+ SOURCE NODE 2: TEMPERATURE MESSAGE
+   Temperature = -16
+
+ SOURCE NODE 3: BAROMETRIC PRESSURE MESSAGE
+   Pressure = 1025
+
+ SOURCE NODE 4: HUMIDITY MESSAGE
+   Dew Point = -65 Humidity = 16
+
+ SOURCE NODE 5: WIND MESSAGE
+   Speed = 214.3 Wind Direction = 257
+
+ SOURCE NODE 6: SOLAR RADIATION MESSAGE
+   Solar Radiation Intensity = 513
+
+ SOURCE NODE 7: DATE/TIME STAMP MESSAGE
+   Time Stamp = 1/24/2013 6:30
+
+ SOURCE NODE 8: PRECIPITATION MESSAGE
+   Precipitation Depth = 12.34
+
+-----------------------
+DF=4
+-----------------------
+
+Packet File Name [pkts.dat]  or '.' to quit:
+
+
+Delay Factor [DF=3] 0 = Manual Mode or '.' to quit: 
+
+ SOURCE NODE 2: TEMPERATURE MESSAGE
+   Temperature = -16
+
+ SOURCE NODE 3: BAROMETRIC PRESSURE MESSAGE
+   Pressure = 1025
+
+ SOURCE NODE 4: HUMIDITY MESSAGE
+   Dew Point = -65 Humidity = 16
+
+ SOURCE NODE 5: WIND MESSAGE
+   Speed = 214.3 Wind Direction = 257
+
+ SOURCE NODE 6: SOLAR RADIATION MESSAGE
+   Solar Radiation Intensity = 513
+
+ SOURCE NODE 7: DATE/TIME STAMP MESSAGE
+   Time Stamp = 1/24/2013 6:30
+
+ SOURCE NODE 8: PRECIPITATION MESSAGE
+   Precipitation Depth = 12.34
+
+ SOURCE NODE 9: SENSOR ID MESSAGE
+   Node ID = Node-9
+
+Packet File Name [pkts.dat]  or '.' to quit:
+
+-----------------------
+errs.dat DF=100
+-----------------------
+
+Packet File Name [pkts.dat]  or '.' to quit: errs.dat
+
+
+Delay Factor [DF=100] 0 = Manual Mode or '.' to quit:
+
+
+ SOURCE NODE 9: SENSOR ID MESSAGE
+   Node ID = Node-9
+
+ SOURCE NODE 2: TEMPERATURE MESSAGE
+   Temperature = -16
+ *** ERROR: Bad Preamble Byte 1
+
+ SOURCE NODE 4: HUMIDITY MESSAGE
+   Dew Point = -65 Humidity = 16
+ *** ERROR: Bad Preamble Byte 2
+
+ SOURCE NODE 6: SOLAR RADIATION MESSAGE
+   Solar Radiation Intensity = 513
+
+ SOURCE NODE 7: DATE/TIME STAMP MESSAGE
+   Time Stamp = 1/24/2013 6:30
+ *** ERROR: Bad Preamble Byte 3
+
+ SOURCE NODE 9: SENSOR ID MESSAGE
+   Node ID = Node-9
+ *** ERROR: Checksum error
+
+ SOURCE NODE 3: BAROMETRIC PRESSURE MESSAGE
+   Pressure = 1025
+ *** ERROR: Bad Packet Size
+
+ SOURCE NODE 5: WIND MESSAGE
+   Speed = 214.3 Wind Direction = 257
+
+ SOURCE NODE 5: WIND MESSAGE
+   Speed = 214.3 Wind Direction = 257
+
+ SOURCE NODE 7: DATE/TIME STAMP MESSAGE
+   Time Stamp = 1/24/2013 6:30
+
+ SOURCE NODE 8: PRECIPITATION MESSAGE
+   Precipitation Depth = 12
+
+----------------------------------------------
+
+I/O Buffer 128 bytes
+------------------
+
+
+Packet File Name [errs.dat]  or term or '.' to quit: pkts.dat
+
+
+Delay Factor [DF=100] 0 = Manual Mode or '.' to quit:
+
+ SOURCE NODE 2: TEMPERATURE MESSAGE
+   Temperature = -16
+
+ SOURCE NODE 3: BAROMETRIC PRESSURE MESSAGE
+   Pressure = 1025
+
+ SOURCE NODE 4: HUMIDITY MESSAGE
+   Dew Point = -65 Humidity = 16
+
+ SOURCE NODE 5: WIND MESSAGE
+   Speed = 214.3 Wind Direction = 257
+
+ SOURCE NODE 6: SOLAR RADIATION MESSAGE
+   Solar Radiation Intensity = 513
+
+ SOURCE NODE 7: DATE/TIME STAMP MESSAGE
+   Time Stamp = 1/24/2013 6:30
+
+ SOURCE NODE 8: PRECIPITATION MESSAGE
+   Precipitation Depth = 12
+
+Packet File Name [pkts.dat]  or '.' to quit:
+
+
+Delay Factor [DF=100] 0 = Manual Mode or '.' to quit: 4
+.34
+
+ SOURCE NODE 9: SENSOR ID MESSAGE
+   Node ID = Node-9
+
+ SOURCE NODE 2: TEMPERATURE MESSAGE
+   Temperature = -16
+
+ SOURCE NODE 3: BAROMETRIC PRESSURE MESSAGE
+   Pressure = 1025
+
+ SOURCE NODE 4: HUMIDITY MESSAGE
+   Dew Point = -65 Humidity = 16
+
+ SOURCE NODE 5: WIND MESSAGE
+   Speed = 214.3 Wind Direction = 257
+
+ SOURCE NODE 6: SOLAR RADIATION MESSAGE
+   Solar Radiation Intensity = 513
+
+ SOURCE NODE 7: DATE/TIME STAMP MESSAGE
+   Time Stamp = 1/24/2013 6:30
+
+ SOURCE NODE 8: PRECIPITATION MESSAGE
+   Precipitation Depth = 12.
+
+Packet File Name [pkts.dat]  or '.' to quit: errs.dat
+
+
+Delay Factor [DF=4] 0 = Manual Mode or '.' to quit: 100
+34
+
+ SOURCE NODE 9: SENSOR ID MESSAGE
+   Node ID = Node-9
+
+ SOURCE NODE 2: TEMPERATURE MESSAGE
+   Temperature = -16
+ *** ERROR: Bad Preamble Byte 1
+
+ SOURCE NODE 4: HUMIDITY MESSAGE
+   Dew Point = -65 Humidity = 16
+ *** ERROR: Bad Preamble Byte 2
+
+ SOURCE NODE 6: SOLAR RADIATION MESSAGE
+   Solar Radiation Intensity = 513
+
+ SOURCE NODE 7: DATE/TIME STAMP MESSAGE
+   Time Stamp = 1/24/2013 6:30
+ *** ERROR: Bad Preamble Byte 3
+
+ SOURCE NODE 9: SENSOR ID MESSAGE
+   Node ID = Node-9
+ *** ERROR: Checksum error
+
+ SOURCE NODE 3: BAROMETRIC PRESSURE MESSAGE
+   Pressure = 1025
+ *** ERROR: Bad Packet Size
+
+ SOURCE NODE 5: WIND MESSAGE
+   Speed = 214.3 Wind Direction = 257
+
+ SOURCE NODE 5: WIND MESSAGE
+   Speed = 214.3 Wind Direction = 257
+
+ SOURCE NODE 7: DATE/TIME STAMP MESSAGE
+   Time Stamp = 1/24/2013 6:30
+
+ SOURCE NODE 8: PRECIPITATION MESSAGE
+   Precipitation Depth = 12.34
+
+ SOURCE NODE 9: SENSOR ID MESSAGE
+   Node ID = Node-9
+
+Packet File Name [errs.dat]  or '.' to quit:
