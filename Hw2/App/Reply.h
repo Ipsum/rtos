@@ -16,8 +16,6 @@ CHANGES
 
 #include "BfrPair.h"
 
-/*----- f u n c t i o n    p r o t o t y p e s -----*/
 void PutReplyMsg(BfrPair *replyBfrPair, CPU_INT08U *msg);
 void Reply(BfrPair *replyBfrPair);
-
 #endif

@@ -16,7 +16,7 @@ CHANGES
 
 // If not already defined, use the default buffer size of 4.
 #ifndef BfrSize
-#define BfrSize 128
+#define BfrSize 4
 #endif
 
 /*----- c o n s t a n t   d e f i n a t i o n s -----*/
